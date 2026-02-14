@@ -1,0 +1,81 @@
+{
+  "bershka": {
+    "store_id": 44009504,
+    "catalog_id": 40259546,
+    "language_id": -1,
+    "app_id": 1
+  },
+  "polling": {
+    "interval_seconds": 180,
+    "jitter_seconds": 30,
+    "per_product_delay_seconds": 2,
+    "timeout_seconds": 20,
+    "print_every_cycle": false
+  },
+  "telegram": {
+    "enabled": true,
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "chat_id": "YOUR_CHAT_ID_HERE",
+    "test_send_every_cycle": true
+  },
+  "products": [
+    {
+      "title": "Double Sleeve Print Jumper",
+      "url": "https://www.bershka.com/de/en/double-sleeve-print-jumper-c0p212744460.html?colorId=700",
+      "product_id": 212744460,
+      "checks": [
+        { "size_label": "L",  "size_id": 212735810 }
+      ]
+    },
+    {
+      "title": "Light Blue Sweatshirt",
+      "url": "https://www.bershka.com/de/en/c0p210968944.html?colorId=428",
+      "product_id": 210968944,
+      "checks": [
+        { "size_label": "L", "size_id": 210968948 }
+      ]
+    },
+    {
+      "title": "Black & White 'odd' Print Sweatshirt",
+      "url": "https://www.bershka.com/de/en/c0p210969089.html?colorId=210",
+      "product_id": 210969089,
+      "checks": [
+        { "size_label": "L", "size_id": 210969093 }
+      ]
+    },
+    {
+      "title": "Superbaggy Print-Jeans",
+      "url": "https://www.bershka.com/de/en/c0p189274579.html?colorId=800",
+      "product_id": 189274579,
+      "checks": [
+        { "size_label": "40", "size_id": 192537852 },
+        { "size_label": "42", "size_id": 192537853 }
+      ]
+    },
+    {
+      "title": "Baggy-Jeans w/ Print Blue",
+      "url": "https://www.bershka.com/de/c0p192486533.html?colorId=428",
+      "product_id": 192486533,
+      "checks": [
+        { "size_label": "40", "size_id": 193174578 },
+        { "size_label": "42", "size_id": 193174579 }
+      ]
+    },
+    {
+      "title": "T-Shirt w/ Print",
+      "url": "https://www.bershka.com/de/c0p194976246.html?colorId=250",
+      "product_id": 194976246,
+      "checks": [
+        { "size_label": "L", "size_id": 194976255 }
+      ]
+    },
+    {
+      "title": "Super Baggy Gray Jeans",
+      "url": "https://www.bershka.com/de/c0p192655062.html?colorId=811",
+      "product_id": 192655062,
+      "checks": [
+        { "size_label": "40", "size_id": 192655075 }
+      ]
+    }
+  ]
+}

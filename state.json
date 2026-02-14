@@ -1,0 +1,81 @@
+{
+  "products": {
+    "212744460": {
+      "212735810": {
+        "status": "OUT",
+        "low_stock": false,
+        "last_seen": {
+          "status": "OUT",
+          "low_stock": false
+        },
+        "seen_streak": 23,
+        "last_emitted": {
+          "status": "OUT",
+          "low_stock": false
+        }
+      },
+      "_error_count": 0
+    },
+    "210968944": {
+      "210968948": {
+        "status": "OUT",
+        "low_stock": false,
+        "last_seen": {
+          "status": "OUT",
+          "low_stock": false
+        },
+        "seen_streak": 23,
+        "last_emitted": {
+          "status": "OUT",
+          "low_stock": false
+        }
+      },
+      "_error_count": 0
+    },
+    "210969089": {
+      "210969093": {
+        "status": "OUT",
+        "low_stock": false,
+        "last_seen": {
+          "status": "OUT",
+          "low_stock": false
+        },
+        "seen_streak": 23,
+        "last_emitted": {
+          "status": "OUT",
+          "low_stock": false
+        }
+      },
+      "_error_count": 0
+    },
+    "189274579": {
+      "192537852": {
+        "status": "OUT",
+        "low_stock": false,
+        "last_seen": {
+          "status": "OUT",
+          "low_stock": false
+        },
+        "seen_streak": 23,
+        "last_emitted": {
+          "status": "OUT",
+          "low_stock": false
+        }
+      },
+      "192537853": {
+        "status": "OUT",
+        "low_stock": false,
+        "last_seen": {
+          "status": "OUT",
+          "low_stock": false
+        },
+        "seen_streak": 23,
+        "last_emitted": {
+          "status": "OUT",
+          "low_stock": false
+        }
+      },
+      "_error_count": 0
+    }
+  }
+}
